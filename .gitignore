@@ -1,0 +1,10 @@
+
+# Git
+.git
+
+# Python cache
+*.pyc
+*__pycache__
+
+# MacOS
+.DS_Store
