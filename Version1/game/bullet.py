@@ -2,7 +2,7 @@ import pyglet
 from game import physicalobject, resources
 
 class Bullet(physicalobject.PhysicalObject):
-    """Bullets fired by the player"""
+    """Bullets fired by the player !"""
 
     def __init__(self, *args, **kwargs):
         super(Bullet, self).__init__(
